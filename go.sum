@@ -1,0 +1,4 @@
+github.com/prologic/go-gopher v0.0.0-20180416032048-d8a2f839d2ad h1:HP6MfbPZu+96VZaI27bSqoYc6UU22Djpax78RgS798c=
+github.com/prologic/go-gopher v0.0.0-20180416032048-d8a2f839d2ad/go.mod h1:58Q4PlMrJyT5EGsnKI+TpvvahdHDXOQiQL+YbAKSKhM=
+golang.org/x/net v0.0.0-20180826012351-8a410e7b638d h1:g9qWBGx4puODJTMVyoPrpoxPFgVGd+z1DZwjfRu4d0I=
+golang.org/x/net v0.0.0-20180826012351-8a410e7b638d/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
